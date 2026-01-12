@@ -1,6 +1,6 @@
 package DesignPatterns.ObserverDesignPattern;
 
-public class ObserverDesignPattern {
+class ObserverDesignPattern {
     public static void main(String[] args) {
         System.out.println("Observer Design Pattern running...");
         Observable iphoneObservable = new IphoneObservable();
